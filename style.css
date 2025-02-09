@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+p {
+    text-align: center;
+}
+
+.i1 {
+    width: 210px;
+    height: 120px;
+}
+
+main {
+    background-color: rgb(255, 227, 175);
+    border-radius: 5px;
+}
+
+.u1 {
+    text-align:center;
+}
+
+.i2 { 
+    width: 270px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.i21 {
+    width: 270px;
+    padding: 30px;
+}
